@@ -1,0 +1,89 @@
+.MainDisplay {
+    width: 100%;
+    background-color: #f9fafc;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding-bottom: 30px;
+    margin-top: 3.3rem;
+    padding: 20px 3px;
+    overflow-y: scroll;
+}
+
+.TaskListArea {
+    padding-right: 5px;
+    padding-left: 0px;
+    overflow-x: auto;
+}
+
+.row {
+    width: 100%;
+    padding: 0;
+    text-align: center;
+    height: 100%;
+}
+
+.col-lg-3 {
+    display: inline-block;
+    margin: 30px;
+}
+
+.MainDisplay:hover::-webkit-scrollbar-thumb {
+    background-color: #6e9afb;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+}
+
+.MainDisplay:hover::-webkit-scrollbar {
+    background-color: #6e9afb;
+    border-radius: 10px;
+}
+
+.TaskListOption {
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.TaskListOption:hover {
+    cursor: pointer;
+}
+
+.shareIconB {
+    display: flex;
+    padding: 8px;
+    border: 1px solid #fff;
+    background-color: #6e9afb;
+    border-radius: 8px;
+    align-items: center;
+    color: #fff;
+}
+
+.addIconB {
+    display: flex;
+    padding: 8px;
+    border: 1px solid #fff;
+    background-color: #6e9afb;
+    color: #fff;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.icon-text-add {
+    margin-right: 5px;
+}
+
+.icon-text-share {
+    margin-right: 5px;
+}
+
+
+/* @media(max-width:640px) {
+    .TaskListOption {
+        top: 50px;
+        right: 100px;
+    }
+} */

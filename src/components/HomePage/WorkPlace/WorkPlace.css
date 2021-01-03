@@ -1,0 +1,16 @@
+.WorkPlace {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background: #fff;
+}
+
+.ActionArea {
+    flex: 5;
+    display: flex;
+    flex-direction: column;
+}
+
+.ActionArea::-webkit-scrollbar-thumb {
+    background-color: #6e9afb;
+}
