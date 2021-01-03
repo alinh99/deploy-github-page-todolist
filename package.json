@@ -2,7 +2,6 @@
     "name": "alinhtodos",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://alinh99.github.io/deploy-github-page-todolist",
     "dependencies": {
         "@fortawesome/free-solid-svg-icons": "^5.15.1",
         "@fortawesome/react-fontawesome": "^0.1.14",
@@ -15,13 +14,11 @@
         "react-bootstrap": "^1.4.0",
         "react-dom": "^17.0.1",
         "react-keyboard-event-handler": "^1.5.4",
-        "react-router-dom": "^5.2.0",
         "react-scripts": "4.0.1",
-        "store": "^2.0.12",
         "web-vitals": "^0.2.4"
     },
     "scripts": {
-        "start": "node server.js",
+        "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
