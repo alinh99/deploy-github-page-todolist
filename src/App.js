@@ -7,7 +7,7 @@ import { createBrowserHistory } from "history";
 import history from './history/history';
 
 function App() {
-  const history = createBrowserHistory();
+
   return (
     <Router history={history}>
       <div className="App">
