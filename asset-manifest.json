@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/deploy-github-page-todolist/static/css/main.c953f673.chunk.css",
+    "main.js": "/deploy-github-page-todolist/static/js/main.d79aed62.chunk.js",
+    "main.js.map": "/deploy-github-page-todolist/static/js/main.d79aed62.chunk.js.map",
+    "runtime-main.js": "/deploy-github-page-todolist/static/js/runtime-main.00bf5ce1.js",
+    "runtime-main.js.map": "/deploy-github-page-todolist/static/js/runtime-main.00bf5ce1.js.map",
+    "static/js/2.7a73ab5c.chunk.js": "/deploy-github-page-todolist/static/js/2.7a73ab5c.chunk.js",
+    "static/js/2.7a73ab5c.chunk.js.map": "/deploy-github-page-todolist/static/js/2.7a73ab5c.chunk.js.map",
+    "index.html": "/deploy-github-page-todolist/index.html",
+    "static/css/main.c953f673.chunk.css.map": "/deploy-github-page-todolist/static/css/main.c953f673.chunk.css.map",
+    "static/js/2.7a73ab5c.chunk.js.LICENSE.txt": "/deploy-github-page-todolist/static/js/2.7a73ab5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00bf5ce1.js",
+    "static/js/2.7a73ab5c.chunk.js",
+    "static/css/main.c953f673.chunk.css",
+    "static/js/main.d79aed62.chunk.js"
+  ]
+}
